@@ -20,6 +20,7 @@ body{
     background-color: #2e2e2e;
     border-radius: 6px;
     color: #7c7c7c;
+    overflow: hidden;
 }
 
 #input-field2{
@@ -30,6 +31,7 @@ body{
     background-color: #2e2e2e;
     border-radius: 6px;
     color: #7c7c7c;
+    overflow: hidden;
 }
 
 .login{
