@@ -3,6 +3,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+span{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    color:white;
+    font-weight: bold;
+}
+
 #netflix-logo{
     display: block;
     margin-left: auto;
@@ -59,14 +67,6 @@ body{
 #sign-in-button:hover{
     color: red;
     background-color: #171717;
-}
-
-span{
-    display: flex;
-    justify-content: center;
-    padding-top: 20px;
-    color:white;
-    font-weight: bold;
 }
 
 #forget-password-text{
